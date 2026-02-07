@@ -3,7 +3,6 @@
 
 ---
 
-
 ## 📌 Overview
 
 AI Code Error Explainer is a semantic search–based application designed to help

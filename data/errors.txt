@@ -1,0 +1,53 @@
+Language: Python
+Type: Runtime Error
+Error: IndexError: list index out of range
+Explanation: Occurs when accessing a list index that does not exist.
+Fix: Ensure the index is within the valid range.
+
+Language: Python
+Type: Runtime Error
+Error: TypeError
+Explanation: Happens when an operation is applied to an incompatible data type.
+Fix: Check variable types before using operations.
+
+Language: Python
+Type: Syntax Error
+Error: SyntaxError
+Explanation: Invalid Python syntax.
+Fix: Check colons, brackets, indentation.
+
+Language: Python
+Type: Runtime Error
+Error: KeyError
+Explanation: Accessing a dictionary key that does not exist.
+Fix: Check if key exists using `in`.
+
+Language: Java
+Type: Runtime Error
+Error: NullPointerException
+Explanation: Using an object reference that is null.
+Fix: Check for null before accessing object methods.
+
+Language: Java
+Type: Compile Time Error
+Error: ArrayIndexOutOfBoundsException
+Explanation: Accessing array index beyond its size.
+Fix: Ensure index is within bounds.
+
+Language: C++
+Type: Runtime Error
+Error: Segmentation Fault
+Explanation: Accessing invalid memory location.
+Fix: Check pointers and array bounds.
+
+Language: SQL
+Type: Logical Error
+Error: Column not found
+Explanation: Query refers to a column that does not exist.
+Fix: Verify column names in the table.
+
+Language: General
+Type: Logical Error
+Error: Infinite Loop
+Explanation: Loop condition never becomes false.
+Fix: Ensure loop termination condition.
